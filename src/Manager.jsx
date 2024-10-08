@@ -132,7 +132,7 @@ const Manager = () => {
                                         </td>
                                         <td className='text-center w-32 py-2 border border-white'>
                                             <div className='flex justify-center gap-4'>
-                                                <FaEdit className='cursor-pointer' onClick={() => editPassword(entry.id)} />
+                                                <FaEdit  className='cursor-pointer' onClick={() => editPassword(entry.id)} />
                                                 <MdDelete className='cursor-pointer' onClick={() => deletePassword(entry.id)} />
                                             </div>
                                         </td>
