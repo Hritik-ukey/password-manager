@@ -11,7 +11,7 @@ const Navbar = () => {
             <li className='flex gap-4 justify-center'>
                 <a className='hover:font-bold' href="/">Home</a>
                 <a className='hover:font-bold' href="/">About</a>
-                <a className='hover:font-bold' href="/">Contact Us</a>
+                <a className='hover:font-bold' href="/"> Contact Us</a>
             </li>
         </ul>
     </nav>
